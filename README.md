@@ -1,6 +1,11 @@
 # About project
 the project is about emarket of agricultural production for the farmer which help to build the connection between farmer anf the customer through this system. the projects consists of api and the reacts applicaion.  
 
+# About Developer
+ I am shankar bhandari this is my final year Projects,
+
+#### Name: Shankar Bhandari 
+#### College ID: 10272475 
 
 # Getting Started with Create React App
 
