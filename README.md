@@ -4,8 +4,8 @@ the project is about emarket of agricultural production for the farmer which hel
 # About Developer
  I am shankar bhandari this is my final year Projects,
 
-#### Name: Shankar Bhandari 
-#### College ID: 10272475 
+#### `Name: Shankar Bhandari` 
+### `College ID: 10272475` 
 
 # Getting Started with Create React App
 
@@ -15,7 +15,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+To intall all the depenancy used in the project:
+
+### `npm i ` 
+### `npm start`  `
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
