@@ -18,7 +18,11 @@ In the project directory, you can run:
 To intall all the depenancy used in the project:
 
 ### `npm i ` 
+<<<<<<< HEAD
 ### `npm start` 
+=======
+### `npm start`
+>>>>>>> 4f92ad3588a2a27358fd4eeb8bf2ca0c274fdb04
 
 
 Runs the app in the development mode.\
